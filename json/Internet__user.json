@@ -1,0 +1,2260 @@
+[
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ac"
+        },
+        "email": "anon0@canterbury.ac.uk",
+        "surname": "Surname0",
+        "name": "Name0",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ad"
+        },
+        "email": "anon10000@canterbury.ac.uk",
+        "surname": "Surname10000",
+        "name": "Name10000",
+        "region": "FR",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ae"
+        },
+        "email": "anon10001@canterbury.ac.uk",
+        "surname": "Surname10001",
+        "name": "Name10001",
+        "region": "IT",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816af"
+        },
+        "email": "anon10002@canterbury.ac.uk",
+        "surname": "Surname10002",
+        "name": "Name10002",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b0"
+        },
+        "email": "anon10003@canterbury.ac.uk",
+        "surname": "Surname10003",
+        "name": "Name10003",
+        "region": "FR",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b1"
+        },
+        "email": "anon10004@canterbury.ac.uk",
+        "surname": "Surname10004",
+        "name": "Name10004",
+        "region": "US",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b2"
+        },
+        "email": "anon10005@canterbury.ac.uk",
+        "surname": "Surname10005",
+        "name": "Name10005",
+        "region": "ES",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b3"
+        },
+        "email": "anon10006@canterbury.ac.uk",
+        "surname": "Surname10006",
+        "name": "Name10006",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b4"
+        },
+        "email": "anon10007@canterbury.ac.uk",
+        "surname": "Surname10007",
+        "name": "Name10007",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b5"
+        },
+        "email": "anon10008@canterbury.ac.uk",
+        "surname": "Surname10008",
+        "name": "Name10008",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b6"
+        },
+        "email": "anon10009@canterbury.ac.uk",
+        "surname": "Surname10009",
+        "name": "Name10009",
+        "region": "US",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b7"
+        },
+        "email": "anon1000@canterbury.ac.uk",
+        "surname": "Surname1000",
+        "name": "Name1000",
+        "region": "CN",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b8"
+        },
+        "email": "anon10010@canterbury.ac.uk",
+        "surname": "Surname10010",
+        "name": "Name10010",
+        "region": "ES",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816b9"
+        },
+        "email": "anon10011@canterbury.ac.uk",
+        "surname": "Surname10011",
+        "name": "Name10011",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ba"
+        },
+        "email": "anon10012@canterbury.ac.uk",
+        "surname": "Surname10012",
+        "name": "Name10012",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816bb"
+        },
+        "email": "anon10013@canterbury.ac.uk",
+        "surname": "Surname10013",
+        "name": "Name10013",
+        "region": "IT",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816bc"
+        },
+        "email": "anon10014@canterbury.ac.uk",
+        "surname": "Surname10014",
+        "name": "Name10014",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816bd"
+        },
+        "email": "anon10015@canterbury.ac.uk",
+        "surname": "Surname10015",
+        "name": "Name10015",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816be"
+        },
+        "email": "anon10016@canterbury.ac.uk",
+        "surname": "Surname10016",
+        "name": "Name10016",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816bf"
+        },
+        "email": "anon10017@canterbury.ac.uk",
+        "surname": "Surname10017",
+        "name": "Name10017",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c0"
+        },
+        "email": "anon10018@canterbury.ac.uk",
+        "surname": "Surname10018",
+        "name": "Name10018",
+        "region": "US",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c1"
+        },
+        "email": "anon10019@canterbury.ac.uk",
+        "surname": "Surname10019",
+        "name": "Name10019",
+        "region": "US",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c2"
+        },
+        "email": "anon1001@canterbury.ac.uk",
+        "surname": "Surname1001",
+        "name": "Name1001",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c3"
+        },
+        "email": "anon10020@canterbury.ac.uk",
+        "surname": "Surname10020",
+        "name": "Name10020",
+        "region": "US",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c4"
+        },
+        "email": "anon10021@canterbury.ac.uk",
+        "surname": "Surname10021",
+        "name": "Name10021",
+        "region": "GB",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c5"
+        },
+        "email": "anon10022@canterbury.ac.uk",
+        "surname": "Surname10022",
+        "name": "Name10022",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c6"
+        },
+        "email": "anon10023@canterbury.ac.uk",
+        "surname": "Surname10023",
+        "name": "Name10023",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c7"
+        },
+        "email": "anon10024@canterbury.ac.uk",
+        "surname": "Surname10024",
+        "name": "Name10024",
+        "region": "IT",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c8"
+        },
+        "email": "anon10025@canterbury.ac.uk",
+        "surname": "Surname10025",
+        "name": "Name10025",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816c9"
+        },
+        "email": "anon10026@canterbury.ac.uk",
+        "surname": "Surname10026",
+        "name": "Name10026",
+        "region": "ES",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ca"
+        },
+        "email": "anon10027@canterbury.ac.uk",
+        "surname": "Surname10027",
+        "name": "Name10027",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816cb"
+        },
+        "email": "anon10028@canterbury.ac.uk",
+        "surname": "Surname10028",
+        "name": "Name10028",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816cc"
+        },
+        "email": "anon10029@canterbury.ac.uk",
+        "surname": "Surname10029",
+        "name": "Name10029",
+        "region": "GB",
+        "Score_movie": {
+            "11": 3
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816cd"
+        },
+        "email": "anon1002@canterbury.ac.uk",
+        "surname": "Surname1002",
+        "name": "Name1002",
+        "region": "FR",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ce"
+        },
+        "email": "anon10030@canterbury.ac.uk",
+        "surname": "Surname10030",
+        "name": "Name10030",
+        "region": "FR",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816cf"
+        },
+        "email": "anon10031@canterbury.ac.uk",
+        "surname": "Surname10031",
+        "name": "Name10031",
+        "region": "IT",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d0"
+        },
+        "email": "anon10032@canterbury.ac.uk",
+        "surname": "Surname10032",
+        "name": "Name10032",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d1"
+        },
+        "email": "anon10033@canterbury.ac.uk",
+        "surname": "Surname10033",
+        "name": "Name10033",
+        "region": "FR",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d2"
+        },
+        "email": "anon10034@canterbury.ac.uk",
+        "surname": "Surname10034",
+        "name": "Name10034",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d3"
+        },
+        "email": "anon10035@canterbury.ac.uk",
+        "surname": "Surname10035",
+        "name": "Name10035",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d4"
+        },
+        "email": "anon10036@canterbury.ac.uk",
+        "surname": "Surname10036",
+        "name": "Name10036",
+        "region": "CN",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d5"
+        },
+        "email": "anon10037@canterbury.ac.uk",
+        "surname": "Surname10037",
+        "name": "Name10037",
+        "region": "CN",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d6"
+        },
+        "email": "anon10038@canterbury.ac.uk",
+        "surname": "Surname10038",
+        "name": "Name10038",
+        "region": "CN",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d7"
+        },
+        "email": "anon10039@canterbury.ac.uk",
+        "surname": "Surname10039",
+        "name": "Name10039",
+        "region": "FR",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d8"
+        },
+        "email": "anon1003@canterbury.ac.uk",
+        "surname": "Surname1003",
+        "name": "Name1003",
+        "region": "CN",
+        "Score_movie": {
+            "11": 1
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816d9"
+        },
+        "email": "anon10040@canterbury.ac.uk",
+        "surname": "Surname10040",
+        "name": "Name10040",
+        "region": "GB",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816da"
+        },
+        "email": "anon10041@canterbury.ac.uk",
+        "surname": "Surname10041",
+        "name": "Name10041",
+        "region": "IT",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816db"
+        },
+        "email": "anon10042@canterbury.ac.uk",
+        "surname": "Surname10042",
+        "name": "Name10042",
+        "region": "CN",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816dc"
+        },
+        "email": "anon10043@canterbury.ac.uk",
+        "surname": "Surname10043",
+        "name": "Name10043",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816dd"
+        },
+        "email": "anon10044@canterbury.ac.uk",
+        "surname": "Surname10044",
+        "name": "Name10044",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816de"
+        },
+        "email": "anon10045@canterbury.ac.uk",
+        "surname": "Surname10045",
+        "name": "Name10045",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816df"
+        },
+        "email": "anon10046@canterbury.ac.uk",
+        "surname": "Surname10046",
+        "name": "Name10046",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e0"
+        },
+        "email": "anon10047@canterbury.ac.uk",
+        "surname": "Surname10047",
+        "name": "Name10047",
+        "region": "CN",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e1"
+        },
+        "email": "anon10048@canterbury.ac.uk",
+        "surname": "Surname10048",
+        "name": "Name10048",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e2"
+        },
+        "email": "anon10049@canterbury.ac.uk",
+        "surname": "Surname10049",
+        "name": "Name10049",
+        "region": "GB",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e3"
+        },
+        "email": "anon1004@canterbury.ac.uk",
+        "surname": "Surname1004",
+        "name": "Name1004",
+        "region": "US",
+        "Score_movie": {
+            "11": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e4"
+        },
+        "email": "anon10050@canterbury.ac.uk",
+        "surname": "Surname10050",
+        "name": "Name10050",
+        "region": "ES",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e5"
+        },
+        "email": "anon10051@canterbury.ac.uk",
+        "surname": "Surname10051",
+        "name": "Name10051",
+        "region": "ES",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e6"
+        },
+        "email": "anon10052@canterbury.ac.uk",
+        "surname": "Surname10052",
+        "name": "Name10052",
+        "region": "US",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e7"
+        },
+        "email": "anon10053@canterbury.ac.uk",
+        "surname": "Surname10053",
+        "name": "Name10053",
+        "region": "IT",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e8"
+        },
+        "email": "anon10054@canterbury.ac.uk",
+        "surname": "Surname10054",
+        "name": "Name10054",
+        "region": "GB",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816e9"
+        },
+        "email": "anon10055@canterbury.ac.uk",
+        "surname": "Surname10055",
+        "name": "Name10055",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ea"
+        },
+        "email": "anon10056@canterbury.ac.uk",
+        "surname": "Surname10056",
+        "name": "Name10056",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816eb"
+        },
+        "email": "anon10057@canterbury.ac.uk",
+        "surname": "Surname10057",
+        "name": "Name10057",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ec"
+        },
+        "email": "anon10058@canterbury.ac.uk",
+        "surname": "Surname10058",
+        "name": "Name10058",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ed"
+        },
+        "email": "anon10059@canterbury.ac.uk",
+        "surname": "Surname10059",
+        "name": "Name10059",
+        "region": "ES",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ee"
+        },
+        "email": "anon1005@canterbury.ac.uk",
+        "surname": "Surname1005",
+        "name": "Name1005",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ef"
+        },
+        "email": "anon10060@canterbury.ac.uk",
+        "surname": "Surname10060",
+        "name": "Name10060",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f0"
+        },
+        "email": "anon10061@canterbury.ac.uk",
+        "surname": "Surname10061",
+        "name": "Name10061",
+        "region": "US",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f1"
+        },
+        "email": "anon10062@canterbury.ac.uk",
+        "surname": "Surname10062",
+        "name": "Name10062",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f2"
+        },
+        "email": "anon10063@canterbury.ac.uk",
+        "surname": "Surname10063",
+        "name": "Name10063",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f3"
+        },
+        "email": "anon10064@canterbury.ac.uk",
+        "surname": "Surname10064",
+        "name": "Name10064",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f4"
+        },
+        "email": "anon10065@canterbury.ac.uk",
+        "surname": "Surname10065",
+        "name": "Name10065",
+        "region": "US",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f5"
+        },
+        "email": "anon10066@canterbury.ac.uk",
+        "surname": "Surname10066",
+        "name": "Name10066",
+        "region": "FR",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f6"
+        },
+        "email": "anon10067@canterbury.ac.uk",
+        "surname": "Surname10067",
+        "name": "Name10067",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f7"
+        },
+        "email": "anon10068@canterbury.ac.uk",
+        "surname": "Surname10068",
+        "name": "Name10068",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f8"
+        },
+        "email": "anon10069@canterbury.ac.uk",
+        "surname": "Surname10069",
+        "name": "Name10069",
+        "region": "GB",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816f9"
+        },
+        "email": "anon1006@canterbury.ac.uk",
+        "surname": "Surname1006",
+        "name": "Name1006",
+        "region": "US",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816fa"
+        },
+        "email": "anon10070@canterbury.ac.uk",
+        "surname": "Surname10070",
+        "name": "Name10070",
+        "region": "IT",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816fb"
+        },
+        "email": "anon10071@canterbury.ac.uk",
+        "surname": "Surname10071",
+        "name": "Name10071",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816fc"
+        },
+        "email": "anon10072@canterbury.ac.uk",
+        "surname": "Surname10072",
+        "name": "Name10072",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816fd"
+        },
+        "email": "anon10073@canterbury.ac.uk",
+        "surname": "Surname10073",
+        "name": "Name10073",
+        "region": "GB",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816fe"
+        },
+        "email": "anon10074@canterbury.ac.uk",
+        "surname": "Surname10074",
+        "name": "Name10074",
+        "region": "US",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de09816ff"
+        },
+        "email": "anon10075@canterbury.ac.uk",
+        "surname": "Surname10075",
+        "name": "Name10075",
+        "region": "CN",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981700"
+        },
+        "email": "anon10076@canterbury.ac.uk",
+        "surname": "Surname10076",
+        "name": "Name10076",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981701"
+        },
+        "email": "anon10077@canterbury.ac.uk",
+        "surname": "Surname10077",
+        "name": "Name10077",
+        "region": "US",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981702"
+        },
+        "email": "anon10078@canterbury.ac.uk",
+        "surname": "Surname10078",
+        "name": "Name10078",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981703"
+        },
+        "email": "anon10079@canterbury.ac.uk",
+        "surname": "Surname10079",
+        "name": "Name10079",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981704"
+        },
+        "email": "anon1007@canterbury.ac.uk",
+        "surname": "Surname1007",
+        "name": "Name1007",
+        "region": "CN",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981705"
+        },
+        "email": "anon10080@canterbury.ac.uk",
+        "surname": "Surname10080",
+        "name": "Name10080",
+        "region": "CN",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981706"
+        },
+        "email": "anon10081@canterbury.ac.uk",
+        "surname": "Surname10081",
+        "name": "Name10081",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981707"
+        },
+        "email": "anon10082@canterbury.ac.uk",
+        "surname": "Surname10082",
+        "name": "Name10082",
+        "region": "CN",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981708"
+        },
+        "email": "anon10083@canterbury.ac.uk",
+        "surname": "Surname10083",
+        "name": "Name10083",
+        "region": "ES",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981709"
+        },
+        "email": "anon10084@canterbury.ac.uk",
+        "surname": "Surname10084",
+        "name": "Name10084",
+        "region": "FR",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170a"
+        },
+        "email": "anon10085@canterbury.ac.uk",
+        "surname": "Surname10085",
+        "name": "Name10085",
+        "region": "FR",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170b"
+        },
+        "email": "anon10086@canterbury.ac.uk",
+        "surname": "Surname10086",
+        "name": "Name10086",
+        "region": "US",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170c"
+        },
+        "email": "anon10087@canterbury.ac.uk",
+        "surname": "Surname10087",
+        "name": "Name10087",
+        "region": "IT",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170d"
+        },
+        "email": "anon10088@canterbury.ac.uk",
+        "surname": "Surname10088",
+        "name": "Name10088",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170e"
+        },
+        "email": "anon10089@canterbury.ac.uk",
+        "surname": "Surname10089",
+        "name": "Name10089",
+        "region": "GB",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098170f"
+        },
+        "email": "anon1008@canterbury.ac.uk",
+        "surname": "Surname1008",
+        "name": "Name1008",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981710"
+        },
+        "email": "anon10090@canterbury.ac.uk",
+        "surname": "Surname10090",
+        "name": "Name10090",
+        "region": "GB",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981711"
+        },
+        "email": "anon10091@canterbury.ac.uk",
+        "surname": "Surname10091",
+        "name": "Name10091",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981712"
+        },
+        "email": "anon10092@canterbury.ac.uk",
+        "surname": "Surname10092",
+        "name": "Name10092",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981713"
+        },
+        "email": "anon10093@canterbury.ac.uk",
+        "surname": "Surname10093",
+        "name": "Name10093",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981714"
+        },
+        "email": "anon10094@canterbury.ac.uk",
+        "surname": "Surname10094",
+        "name": "Name10094",
+        "region": "GB",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981715"
+        },
+        "email": "anon10095@canterbury.ac.uk",
+        "surname": "Surname10095",
+        "name": "Name10095",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981716"
+        },
+        "email": "anon10096@canterbury.ac.uk",
+        "surname": "Surname10096",
+        "name": "Name10096",
+        "region": "GB",
+        "Score_movie": {
+            "11": 3
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981717"
+        },
+        "email": "anon10097@canterbury.ac.uk",
+        "surname": "Surname10097",
+        "name": "Name10097",
+        "region": "ES",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981718"
+        },
+        "email": "anon10098@canterbury.ac.uk",
+        "surname": "Surname10098",
+        "name": "Name10098",
+        "region": "IT",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981719"
+        },
+        "email": "anon10099@canterbury.ac.uk",
+        "surname": "Surname10099",
+        "name": "Name10099",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171a"
+        },
+        "email": "anon1009@canterbury.ac.uk",
+        "surname": "Surname1009",
+        "name": "Name1009",
+        "region": "ES",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171b"
+        },
+        "email": "anon100@canterbury.ac.uk",
+        "surname": "Surname100",
+        "name": "Name100",
+        "region": "IT",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171c"
+        },
+        "email": "anon10100@canterbury.ac.uk",
+        "surname": "Surname10100",
+        "name": "Name10100",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171d"
+        },
+        "email": "anon10101@canterbury.ac.uk",
+        "surname": "Surname10101",
+        "name": "Name10101",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171e"
+        },
+        "email": "anon10102@canterbury.ac.uk",
+        "surname": "Surname10102",
+        "name": "Name10102",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098171f"
+        },
+        "email": "anon10103@canterbury.ac.uk",
+        "surname": "Surname10103",
+        "name": "Name10103",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981720"
+        },
+        "email": "anon10104@canterbury.ac.uk",
+        "surname": "Surname10104",
+        "name": "Name10104",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981721"
+        },
+        "email": "anon10105@canterbury.ac.uk",
+        "surname": "Surname10105",
+        "name": "Name10105",
+        "region": "GB",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981722"
+        },
+        "email": "anon10106@canterbury.ac.uk",
+        "surname": "Surname10106",
+        "name": "Name10106",
+        "region": "CN",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981723"
+        },
+        "email": "anon10107@canterbury.ac.uk",
+        "surname": "Surname10107",
+        "name": "Name10107",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981724"
+        },
+        "email": "anon10108@canterbury.ac.uk",
+        "surname": "Surname10108",
+        "name": "Name10108",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981725"
+        },
+        "email": "anon10109@canterbury.ac.uk",
+        "surname": "Surname10109",
+        "name": "Name10109",
+        "region": "US",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981726"
+        },
+        "email": "anon1010@canterbury.ac.uk",
+        "surname": "Surname1010",
+        "name": "Name1010",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981727"
+        },
+        "email": "anon10110@canterbury.ac.uk",
+        "surname": "Surname10110",
+        "name": "Name10110",
+        "region": "FR",
+        "Score_movie": {
+            "11": 3
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981728"
+        },
+        "email": "anon10111@canterbury.ac.uk",
+        "surname": "Surname10111",
+        "name": "Name10111",
+        "region": "IT",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981729"
+        },
+        "email": "anon10112@canterbury.ac.uk",
+        "surname": "Surname10112",
+        "name": "Name10112",
+        "region": "ES",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172a"
+        },
+        "email": "anon10113@canterbury.ac.uk",
+        "surname": "Surname10113",
+        "name": "Name10113",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172b"
+        },
+        "email": "anon10114@canterbury.ac.uk",
+        "surname": "Surname10114",
+        "name": "Name10114",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172c"
+        },
+        "email": "anon10115@canterbury.ac.uk",
+        "surname": "Surname10115",
+        "name": "Name10115",
+        "region": "GB",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172d"
+        },
+        "email": "anon10116@canterbury.ac.uk",
+        "surname": "Surname10116",
+        "name": "Name10116",
+        "region": "US",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172e"
+        },
+        "email": "anon10117@canterbury.ac.uk",
+        "surname": "Surname10117",
+        "name": "Name10117",
+        "region": "IT",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098172f"
+        },
+        "email": "anon10118@canterbury.ac.uk",
+        "surname": "Surname10118",
+        "name": "Name10118",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981730"
+        },
+        "email": "anon10119@canterbury.ac.uk",
+        "surname": "Surname10119",
+        "name": "Name10119",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981731"
+        },
+        "email": "anon1011@canterbury.ac.uk",
+        "surname": "Surname1011",
+        "name": "Name1011",
+        "region": "US",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981732"
+        },
+        "email": "anon10120@canterbury.ac.uk",
+        "surname": "Surname10120",
+        "name": "Name10120",
+        "region": "FR",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981733"
+        },
+        "email": "anon10121@canterbury.ac.uk",
+        "surname": "Surname10121",
+        "name": "Name10121",
+        "region": "CN",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981734"
+        },
+        "email": "anon10122@canterbury.ac.uk",
+        "surname": "Surname10122",
+        "name": "Name10122",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981735"
+        },
+        "email": "anon10123@canterbury.ac.uk",
+        "surname": "Surname10123",
+        "name": "Name10123",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981736"
+        },
+        "email": "anon10124@canterbury.ac.uk",
+        "surname": "Surname10124",
+        "name": "Name10124",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981737"
+        },
+        "email": "anon10125@canterbury.ac.uk",
+        "surname": "Surname10125",
+        "name": "Name10125",
+        "region": "IT",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981738"
+        },
+        "email": "anon10126@canterbury.ac.uk",
+        "surname": "Surname10126",
+        "name": "Name10126",
+        "region": "FR",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981739"
+        },
+        "email": "anon10127@canterbury.ac.uk",
+        "surname": "Surname10127",
+        "name": "Name10127",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173a"
+        },
+        "email": "anon10128@canterbury.ac.uk",
+        "surname": "Surname10128",
+        "name": "Name10128",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173b"
+        },
+        "email": "anon10129@canterbury.ac.uk",
+        "surname": "Surname10129",
+        "name": "Name10129",
+        "region": "IT",
+        "Score_movie": {
+            "11": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173c"
+        },
+        "email": "anon1012@canterbury.ac.uk",
+        "surname": "Surname1012",
+        "name": "Name1012",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173d"
+        },
+        "email": "anon10130@canterbury.ac.uk",
+        "surname": "Surname10130",
+        "name": "Name10130",
+        "region": "GB",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173e"
+        },
+        "email": "anon10131@canterbury.ac.uk",
+        "surname": "Surname10131",
+        "name": "Name10131",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098173f"
+        },
+        "email": "anon10132@canterbury.ac.uk",
+        "surname": "Surname10132",
+        "name": "Name10132",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981740"
+        },
+        "email": "anon10133@canterbury.ac.uk",
+        "surname": "Surname10133",
+        "name": "Name10133",
+        "region": "CN",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981741"
+        },
+        "email": "anon10134@canterbury.ac.uk",
+        "surname": "Surname10134",
+        "name": "Name10134",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981742"
+        },
+        "email": "anon10135@canterbury.ac.uk",
+        "surname": "Surname10135",
+        "name": "Name10135",
+        "region": "GB",
+        "Score_movie": {
+            "11": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981743"
+        },
+        "email": "anon10136@canterbury.ac.uk",
+        "surname": "Surname10136",
+        "name": "Name10136",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981744"
+        },
+        "email": "anon10137@canterbury.ac.uk",
+        "surname": "Surname10137",
+        "name": "Name10137",
+        "region": "US",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981745"
+        },
+        "email": "anon10138@canterbury.ac.uk",
+        "surname": "Surname10138",
+        "name": "Name10138",
+        "region": "FR",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981746"
+        },
+        "email": "anon10139@canterbury.ac.uk",
+        "surname": "Surname10139",
+        "name": "Name10139",
+        "region": "IT",
+        "Score_movie": {
+            "11": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981747"
+        },
+        "email": "anon1013@canterbury.ac.uk",
+        "surname": "Surname1013",
+        "name": "Name1013",
+        "region": "US",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981748"
+        },
+        "email": "anon10140@canterbury.ac.uk",
+        "surname": "Surname10140",
+        "name": "Name10140",
+        "region": "ES",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981749"
+        },
+        "email": "anon10141@canterbury.ac.uk",
+        "surname": "Surname10141",
+        "name": "Name10141",
+        "region": "FR",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174a"
+        },
+        "email": "anon10142@canterbury.ac.uk",
+        "surname": "Surname10142",
+        "name": "Name10142",
+        "region": "FR",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174b"
+        },
+        "email": "anon10143@canterbury.ac.uk",
+        "surname": "Surname10143",
+        "name": "Name10143",
+        "region": "US",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174c"
+        },
+        "email": "anon10144@canterbury.ac.uk",
+        "surname": "Surname10144",
+        "name": "Name10144",
+        "region": "GB",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174d"
+        },
+        "email": "anon10145@canterbury.ac.uk",
+        "surname": "Surname10145",
+        "name": "Name10145",
+        "region": "GB",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174e"
+        },
+        "email": "anon10146@canterbury.ac.uk",
+        "surname": "Surname10146",
+        "name": "Name10146",
+        "region": "IT",
+        "Score_movie": {
+            "11": 2
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098174f"
+        },
+        "email": "anon10147@canterbury.ac.uk",
+        "surname": "Surname10147",
+        "name": "Name10147",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981750"
+        },
+        "email": "anon10148@canterbury.ac.uk",
+        "surname": "Surname10148",
+        "name": "Name10148",
+        "region": "GB",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981751"
+        },
+        "email": "anon10149@canterbury.ac.uk",
+        "surname": "Surname10149",
+        "name": "Name10149",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981752"
+        },
+        "email": "anon1014@canterbury.ac.uk",
+        "surname": "Surname1014",
+        "name": "Name1014",
+        "region": "ES",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981753"
+        },
+        "email": "anon10150@canterbury.ac.uk",
+        "surname": "Surname10150",
+        "name": "Name10150",
+        "region": "IT",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981754"
+        },
+        "email": "anon10151@canterbury.ac.uk",
+        "surname": "Surname10151",
+        "name": "Name10151",
+        "region": "IT",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981755"
+        },
+        "email": "anon10152@canterbury.ac.uk",
+        "surname": "Surname10152",
+        "name": "Name10152",
+        "region": "ES",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981756"
+        },
+        "email": "anon10153@canterbury.ac.uk",
+        "surname": "Surname10153",
+        "name": "Name10153",
+        "region": "CN",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981757"
+        },
+        "email": "anon10154@canterbury.ac.uk",
+        "surname": "Surname10154",
+        "name": "Name10154",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981758"
+        },
+        "email": "anon10155@canterbury.ac.uk",
+        "surname": "Surname10155",
+        "name": "Name10155",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981759"
+        },
+        "email": "anon10156@canterbury.ac.uk",
+        "surname": "Surname10156",
+        "name": "Name10156",
+        "region": "GB",
+        "Score_movie": {
+            "11": 10
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175a"
+        },
+        "email": "anon10157@canterbury.ac.uk",
+        "surname": "Surname10157",
+        "name": "Name10157",
+        "region": "ES",
+        "Score_movie": {
+            "11": 6
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175b"
+        },
+        "email": "anon10158@canterbury.ac.uk",
+        "surname": "Surname10158",
+        "name": "Name10158",
+        "region": "FR",
+        "Score_movie": {
+            "11": 9
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175c"
+        },
+        "email": "anon10159@canterbury.ac.uk",
+        "surname": "Surname10159",
+        "name": "Name10159",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175d"
+        },
+        "email": "anon1015@canterbury.ac.uk",
+        "surname": "Surname1015",
+        "name": "Name1015",
+        "region": "IT",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175e"
+        },
+        "email": "anon10160@canterbury.ac.uk",
+        "surname": "Surname10160",
+        "name": "Name10160",
+        "region": "CN",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098175f"
+        },
+        "email": "anon10161@canterbury.ac.uk",
+        "surname": "Surname10161",
+        "name": "Name10161",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981760"
+        },
+        "email": "anon10162@canterbury.ac.uk",
+        "surname": "Surname10162",
+        "name": "Name10162",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981761"
+        },
+        "email": "anon10163@canterbury.ac.uk",
+        "surname": "Surname10163",
+        "name": "Name10163",
+        "region": "FR",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981762"
+        },
+        "email": "anon10164@canterbury.ac.uk",
+        "surname": "Surname10164",
+        "name": "Name10164",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981763"
+        },
+        "email": "anon10165@canterbury.ac.uk",
+        "surname": "Surname10165",
+        "name": "Name10165",
+        "region": "FR",
+        "Score_movie": {
+            "11": 3
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981764"
+        },
+        "email": "anon10166@canterbury.ac.uk",
+        "surname": "Surname10166",
+        "name": "Name10166",
+        "region": "FR",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981765"
+        },
+        "email": "anon10167@canterbury.ac.uk",
+        "surname": "Surname10167",
+        "name": "Name10167",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981766"
+        },
+        "email": "anon10168@canterbury.ac.uk",
+        "surname": "Surname10168",
+        "name": "Name10168",
+        "region": "IT",
+        "Score_movie": {
+            "11": 5
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981767"
+        },
+        "email": "anon10169@canterbury.ac.uk",
+        "surname": "Surname10169",
+        "name": "Name10169",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981768"
+        },
+        "email": "anon1016@canterbury.ac.uk",
+        "surname": "Surname1016",
+        "name": "Name1016",
+        "region": "ES",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981769"
+        },
+        "email": "anon10170@canterbury.ac.uk",
+        "surname": "Surname10170",
+        "name": "Name10170",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176a"
+        },
+        "email": "anon10171@canterbury.ac.uk",
+        "surname": "Surname10171",
+        "name": "Name10171",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176b"
+        },
+        "email": "anon10172@canterbury.ac.uk",
+        "surname": "Surname10172",
+        "name": "Name10172",
+        "region": "CN",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176c"
+        },
+        "email": "anon10173@canterbury.ac.uk",
+        "surname": "Surname10173",
+        "name": "Name10173",
+        "region": "GB",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176d"
+        },
+        "email": "anon10174@canterbury.ac.uk",
+        "surname": "Surname10174",
+        "name": "Name10174",
+        "region": "ES",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176e"
+        },
+        "email": "anon10175@canterbury.ac.uk",
+        "surname": "Surname10175",
+        "name": "Name10175",
+        "region": "IT",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de098176f"
+        },
+        "email": "anon10176@canterbury.ac.uk",
+        "surname": "Surname10176",
+        "name": "Name10176",
+        "region": "GB",
+        "Score_movie": {
+            "11": 7
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981770"
+        },
+        "email": "anon10177@canterbury.ac.uk",
+        "surname": "Surname10177",
+        "name": "Name10177",
+        "region": "US",
+        "Score_movie": {}
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981771"
+        },
+        "email": "anon10178@canterbury.ac.uk",
+        "surname": "Surname10178",
+        "name": "Name10178",
+        "region": "FR",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981772"
+        },
+        "email": "anon10179@canterbury.ac.uk",
+        "surname": "Surname10179",
+        "name": "Name10179",
+        "region": "CN",
+        "Score_movie": {
+            "11": 8
+        }
+    },
+    {
+        "_id": {
+            "$oid": "664d06fc16209a6de0981773"
+        },
+        "email": "anon1017@canterbury.ac.uk",
+        "surname": "Surname1017",
+        "name": "Name1017",
+        "region": "IT",
+        "Score_movie": {}
+    }
+]
