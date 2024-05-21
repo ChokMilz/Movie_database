@@ -10,11 +10,9 @@ Studio3t is a GUI for MongoDB that can be used to migrate data from MySQL to Mon
 
 A connection is made to our current MySQL implementation, as well as our target MongoDB instance. The authentication information, hostname and ports are specified. We can then use the import wizard to migrate data from MySQL to MongoDB.
 
-![Studio3t](/images/image_1.png)
 
 We select the Movie and Internet_user tables from MySQL and click `Mappings`, where we can transform the tables into documents.
 
-![Studio3t](/images/image_2.png)
 
 Essentially, a minimal no-code approach is taken to transform the tables into documents. Moving from a relational database to a document-orientated database requires denormalization. Information that was previously stored in multiple tables is now stored in a single document, this is because to get all the information we need, we would have to perform multiple joins in a relational database.
 
@@ -28,7 +26,6 @@ For instance, after visually inspecting the dataset, we look at the database sch
 
 A movie has a country, a producer and a list of roles (characters) played by artists. By doing so, we've encapsulated the data that into a single document, which needn't change often, this decreases the number of write operations, as well as the number of queries required to get the data we need.
 
-![Studio3t](/images/image_3.png)
 
 The `Internet_user` and `Score_movie` table are moved into their own collection. Given the nature of the data, the `movie` documents are unlikely to change often. Taking into account that amount of internet user ratings are variable, and the document size limit of MongoDB, there are methods to handle this, but we needn't write endless queries to a `movie` document to update the ratings. We can simply update the `Internet_user` and `Score_movie` documents, and query the `movieId` to get the ratings. This allows us to maintain maximum read operations to the `movie` collection.
 
